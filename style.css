@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.header{
+    height: 100px;
+    background-color: red;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    height: 500px;
+    background-color: blue;
+}
+.section{
+    height: 50px;
+    width: 50px;
+    background-color: black;
+}
